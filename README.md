@@ -1,4 +1,4 @@
-# Hi there, I'm Ricardo Urdaneta Castro 👋
+# Hi there, I'm Ricardo Urdaneta 👋
 
 I'm a former lawyer currently transitioning into the exciting world of **Data Analytics and Data Science**. I'm passionate about leveraging data to uncover insights and solve complex problems.
 
