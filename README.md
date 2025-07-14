@@ -24,7 +24,7 @@ Based on my current studies and certifications, here are some of the tools I'm w
 
 ### 📫 Reach me:
 - **[LinkedIn Profile](https://www.linkedin.com/in/ricardourdanetacastro/)**
-- **[Mail](ricardourdanetacastro@gmail.com)**
+- **[Mail](mailto:ricardourdanetacastro@gmail.com)**
   
 ---
 *This profile is a work in progress. Thanks for visiting!*
