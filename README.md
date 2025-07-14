@@ -8,10 +8,10 @@ Right now, I'm deeply engaged in learning and building my skills. My portfolio o
 
 ### 🔭 I’m currently working on:
 - Building foundational data analysis projects.
-- Honing my skills in Python, SQL, and data visualization tools such as Tableau.
+- Honing my skills in Python, SQL, data extraction and data visualization tools such as Tableau.
 
 ### 🌱 I’m currently learning:
-- Advanced statistical analysis and machine learning concepts.
+- Advanced statistical analysis and machine learning.
 - Cloud computing platforms for data science.
 
 ### 🛠️ Skills & Technologies
@@ -19,8 +19,8 @@ Right now, I'm deeply engaged in learning and building my skills. My portfolio o
 Based on my current studies and certifications, here are some of the tools I'm working with:
 
 * **Languages:** Python, SQL
-* **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau
-* **Databases:** MySQL, PostgreSQL
+* **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Tableau
+* **Databases:** MySQL, PostgreSQL, BigQuery
 
 ### 📫 How to reach me:
 - **LinkedIn:** [Profile](https://www.linkedin.com/in/ricardourdanetacastro/)
