@@ -1,14 +1,13 @@
-# Hi there, I'm Ricardo Urdaneta 👋
+# Hi there, I'm Ricardo  👋
 
 I'm a former lawyer currently transitioning into the exciting world of **Data Analytics and Data Science**. I'm passionate about leveraging data to uncover insights and solve complex problems.
 
-Right now, I'm deeply engaged in learning and building my skills. My portfolio of data projects will be available here soon, stay tuned!
-
+Right now, I'm deeply engaged in learning and building my skills. My portfolio of data projects will be available here soon.
 ---
 
 ### 🔭 I’m currently working on:
 - Building foundational data analysis projects.
-- Honing my skills in Python, SQL, data extraction and data visualization tools such as Tableau.
+- Honing my skills in Python, SQL, data extraction, data visualization and Machine Learning.
 
 ### 🌱 I’m currently learning:
 - Advanced statistical analysis and machine learning.
