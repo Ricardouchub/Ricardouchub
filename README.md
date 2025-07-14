@@ -8,7 +8,7 @@ Right now, I'm deeply engaged in learning and building my skills. My portfolio o
 
 ### 🔭 I’m currently working on:
 - Building foundational data analysis projects.
-- Honing my skills in Python, SQL, and data visualization tools.
+- Honing my skills in Python, SQL, and data visualization tools such as Tableau.
 
 ### 🌱 I’m currently learning:
 - Advanced statistical analysis and machine learning concepts.
