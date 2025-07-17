@@ -20,7 +20,8 @@ Based on my current studies and certifications, here are some of the tools I'm w
 
 * **Languages:** Python, SQL
 * **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Tableau
-* **Databases:** MySQL, PostgreSQL, Amazon AWS RDS, Amazon Athena
+* **Databases:** MySQL, PostgreSQL
+* **Cloud Data Services:** Amazon AWS RDS, Amazon Athena
 
 ### 📫 Reach me:
 - **[LinkedIn Profile](https://www.linkedin.com/in/ricardourdanetacastro/)**
