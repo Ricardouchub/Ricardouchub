@@ -20,7 +20,7 @@ Based on my current studies and certifications, here are some of the tools I'm w
 
 * **Languages:** Python, SQL
 * **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Tableau
-* **Databases:** MySQL, PostgreSQL, BigQuery
+* **Databases:** MySQL, PostgreSQL, BigQuery, Amazon RDS
 
 ### 📫 Reach me:
 - **[LinkedIn Profile](https://www.linkedin.com/in/ricardourdanetacastro/)**
