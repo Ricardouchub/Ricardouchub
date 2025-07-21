@@ -1,6 +1,6 @@
 # Hi there, I'm Ricardo  👋
 
-I'm a former lawyer currently transitioning into the exciting world of **Data Analytics and Data Science**. I'm passionate about leveraging data to uncover insights and solve complex problems.
+I'm a former lawyer currently transitioning into the world of **Data Analytics and Data Science**. I'm passionate about leveraging data to uncover insights and solve complex problems.
 
 Right now, I'm deeply engaged in learning and building my skills. My portfolio of data projects will be available here soon.
 
