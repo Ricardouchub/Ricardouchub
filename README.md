@@ -19,9 +19,9 @@ Right now, I'm deeply engaged in learning and building my skills. My portfolio o
 Based on my current studies and certifications, here are some of the tools I'm working with:
 
 * **Languages:** Python, SQL
-* **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Tableau
+* **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Tableau, Looker
 * **Databases:** MySQL, PostgreSQL
-* **Cloud Data Services:** Amazon AWS RDS, DynamoDB, Amazon Athena
+* **Cloud Data Services:** Amazon AWS RDS, DynamoDB, Amazon Athena, BigQuery
 
 ### 📫 Reach me:
 - **[LinkedIn Profile](https://www.linkedin.com/in/ricardourdanetacastro/)**
