@@ -6,15 +6,15 @@ Right now, I'm deeply engaged in learning and building my skills. My portfolio o
 
 ---
 
-### 🔭 I’m currently working on:
+###  I’m currently working on:
 - Building foundational data analysis projects.
 - Honing my skills in Python, SQL, data extraction, data visualization and Machine Learning.
 
-### 🌱 I’m currently learning:
+###  I’m currently learning:
 - Advanced statistical analysis and machine learning.
 - Cloud computing platforms for data science.
 
-### 🛠️ Skills & Tools
+### 🛠 Skills & Tools
 
 Based on my current studies and certifications, here are some of the tools I'm working with:
 
@@ -23,7 +23,7 @@ Based on my current studies and certifications, here are some of the tools I'm w
 * **Databases:** MySQL, PostgreSQL
 * **Cloud Data Services:** Amazon AWS RDS, DynamoDB, Amazon Athena, Google BigQuery, Google Dataflow
 
-### 📫 Reach me:
+###  Reach me:
 - **[LinkedIn Profile](https://www.linkedin.com/in/ricardourdanetacastro/)**
 - **[Mail](mailto:ricardourdanetacastro@gmail.com)**
   
