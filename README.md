@@ -14,7 +14,7 @@ Right now, I'm deeply engaged in learning and building my skills. My portfolio o
 - Advanced statistical analysis and machine learning.
 - Cloud computing platforms for data science.
 
-### 🛠 Skills & Tools
+###  Skills & Tools
 
 Based on my current studies and certifications, here are some of the tools I'm working with:
 
