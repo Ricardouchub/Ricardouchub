@@ -19,7 +19,7 @@ Right now, I'm deeply engaged in learning and building my skills. My portfolio o
 Based on my current studies and certifications, here are some of the tools I'm working with:
 
 * **Languages:** Python, SQL
-* **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Tableau, Looker
+* **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Tableau
 * **Databases:** MySQL, PostgreSQL
 * **Cloud Data Services:** Amazon AWS RDS, DynamoDB, Amazon Athena, Google BigQuery, Google Dataflow
 
