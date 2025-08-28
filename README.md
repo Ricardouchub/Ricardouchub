@@ -1,9 +1,9 @@
 # 👋 Hola, soy Ricardo
 
-Soy un ex-abogado que actualmente está en proceso de transición hacia el mundo de la **Analítica de Datos, Ciencia de Datos e Ingeniería de Datos**.  
-Me apasiona aprovechar la información para descubrir patrones, generar valor y resolver problemas complejos.
+Anteriormente abogado que actualmente estoy en proceso de transición hacia el mundo de la **Analítica de Datos, Ciencia de Datos e Ingeniería de Datos**.  
+Fascinado en aprovechar la información para descubrir patrones, generar valor y resolver problemas complejos.
 
-Este perfil refleja mi camino de aprendizaje y crecimiento en el área de datos. 
+Este perfil refleja mi camino de aprendizaje y crecimiento en el área.
 
 👉 Aquí puedes explorar mi [Guía de Portafolio de Proyectos](#) con ejemplos prácticos y aplicaciones reales que he desarrollado.
 
