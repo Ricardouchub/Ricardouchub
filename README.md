@@ -1,31 +1,50 @@
-# Hi there, I'm Ricardo.
+# 👋 Hola, soy Ricardo
 
-I'm a former lawyer currently transitioning into the world of **Data Analytics and Data Science**. I'm passionate about leveraging data to uncover insights and solve complex problems.
+Soy un ex-abogado que actualmente está en proceso de transición hacia el mundo de la **Analítica de Datos, Ciencia de Datos e Ingeniería de Datos**.  
+Me apasiona aprovechar la información para descubrir patrones, generar valor y resolver problemas complejos.
 
-Right now, I'm deeply engaged in learning and building my skills. My portfolio of data projects will be available here soon.
+Este perfil refleja mi camino de aprendizaje y crecimiento en el área de datos. 
+
+👉 Aquí puedes explorar mi [Guía de Portafolio de Proyectos](#) con ejemplos prácticos y aplicaciones reales que he desarrollado.
 
 ---
 
-###  I’m currently working on:
-- Building foundational data analysis projects.
-- Honing my skills in Python, SQL, data extraction, data visualization and Machine Learning.
+## Actualmente trabajando en:
+- Construir proyectos de análisis de datos desde cero.
+- Mejorar mis habilidades en **Python, SQL, extracción de datos, visualización y Machine Learning**.
+- Desarrollar dashboards interactivos y pipelines de datos en la nube y de manera local.
 
-###  I’m currently learning:
-- Advanced statistical analysis and machine learning.
-- Cloud computing platforms for data science.
+## Estoy aprendiendo:
+- Técnicas avanzadas de **estadística y machine learning**.
+- Arquitectura de datos y **plataformas en la nube** (AWS, GCP).
+- Buenas prácticas en **Data Engineering** y despliegue de aplicaciones interactivas.
 
-###  Skills & Tools
-
-Based on my current studies and certifications, here are some of the tools I'm working with:
-
-* **Languages:** Python, SQL
-* **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Tableau
-* **Databases:** MySQL, PostgreSQL
-* **Cloud Data Services:** Amazon AWS RDS, DynamoDB, Amazon Athena, Google BigQuery
-
-###  Reach me:
-- **[LinkedIn Profile](https://www.linkedin.com/in/ricardourdanetacastro/)**
-- **[Mail](mailto:ricardourdanetacastro@gmail.com)**
-  
 ---
-*This profile is a work in progress. Thanks for visiting!*
+
+## Habilidades & Herramientas
+
+**Lenguajes:**  
+Python · SQL  
+
+**Análisis y Visualización de Datos:**  
+Pandas · NumPy · Matplotlib · Seaborn · Plotly · Tableau · Dash · Streamlit  
+
+**Bases de Datos:**  
+MySQL · PostgreSQL  
+
+**Servicios Cloud y Big Data:**  
+AWS (EC2, Lambda, RDS, S3, EventBridge) · Google BigQuery · Redpanda · ClickHouse  
+
+**Machine Learning & NLP:**  
+scikit-learn · XGBoost · LightGBM · Optuna · Transformers (HuggingFace) · SHAP  
+
+---
+
+## 📬 Conecta conmigo:
+- **[LinkedIn](https://www.linkedin.com/in/ricardourdanetacastro/)**
+- **[Email](mailto:ricardourdanetacastro@gmail.com)**
+- **[GitHub Portafolio](https://github.com/Ricardouchub?tab=repositories)**
+
+---
+
+*Este perfil está en constante evolución. ¡Gracias por visitarlo!*
