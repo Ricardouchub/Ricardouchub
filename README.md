@@ -1,3 +1,9 @@
+<p align="right">
+  <a href="https://github.com/Ricardouchub/Portafolio/blob/main/README-english.md">
+    README English
+  </a>
+</p>
+
 # 👋 Hola, soy Ricardo
 
 Anteriormente abogado y actualmente en proceso de transición hacia el mundo de la **Analítica y Ciencia de Datos**.  
