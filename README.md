@@ -1,11 +1,11 @@
 # 👋 Hola, soy Ricardo
 
-Anteriormente abogado que actualmente estoy en proceso de transición hacia el mundo de la **Analítica de Datos, Ciencia de Datos e Ingeniería de Datos**.  
+Anteriormente abogado y actualmente en proceso de transición hacia el mundo de la **Analítica y Ciencia de Datos**.  
 Fascinado en aprovechar la información para descubrir patrones, generar valor y resolver problemas complejos.
 
 Este perfil refleja mi camino de aprendizaje y crecimiento en el área.
 
-👉 Aquí puedes explorar mi [Guía de Portafolio de Proyectos](#) con ejemplos prácticos y aplicaciones reales que he desarrollado.
+👉 Aquí puedes explorar mi **[Portafolio de Proyectos](https://github.com/Ricardouchub/Portafolio/blob/main/README-portafolio-espa%C3%B1ol.md)** con ejemplos prácticos y aplicaciones reales que he desarrollado.
 
 ---
 
@@ -40,11 +40,11 @@ scikit-learn · XGBoost · LightGBM · Optuna · Transformers (HuggingFace) · S
 
 ---
 
-## 📬 Conecta conmigo:
+## Contáctame:
 - **[LinkedIn](https://www.linkedin.com/in/ricardourdanetacastro/)**
 - **[Email](mailto:ricardourdanetacastro@gmail.com)**
 - **[GitHub Portafolio](https://github.com/Ricardouchub?tab=repositories)**
 
 ---
 
-*Este perfil está en constante evolución. ¡Gracias por visitarlo!*
+*Perfil está en constante evolución. ¡Gracias por visitarlo!*
