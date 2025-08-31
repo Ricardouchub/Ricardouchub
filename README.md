@@ -11,7 +11,7 @@ Fascinado en aprovechar la información para descubrir patrones, generar valor y
 
 Este perfil refleja mi camino de aprendizaje y crecimiento en el área.
 
-👉 Aquí puedes explorar mi **[Portafolio de Proyectos](https://github.com/Ricardouchub/Portafolio/blob/main/README-portafolio-espa%C3%B1ol.md)** con ejemplos prácticos y aplicaciones reales que he desarrollado.
+👉 Revisa mi **[Portafolio de Proyectos](https://github.com/Ricardouchub/Portafolio/blob/main/README-portafolio-espa%C3%B1ol.md)** con ejemplos prácticos y aplicaciones reales que he desarrollado.
 
 ---
 
