@@ -52,4 +52,4 @@ scikit-learn · XGBoost · LightGBM · Optuna · Transformers (HuggingFace) · S
 
 ---
 
-*Perfil está en constante evolución. ¡Gracias por visitarlo!*
+*Perfil en constante evolución. ¡Gracias por la visita!*
