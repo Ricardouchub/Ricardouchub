@@ -39,7 +39,7 @@ Pandas · NumPy · Matplotlib · Seaborn · Plotly · Tableau · Dash · Streaml
 MySQL · PostgreSQL  
 
 **Servicios Cloud y Big Data:**  
-AWS (EC2, Lambda, RDS, S3, EventBridge) · Google BigQuery · Redpanda · ClickHouse  
+AWS (EC2, Lambda, RDS, S3, EventBridge) · Google BigQuery 
 
 **Machine Learning & NLP:**  
 scikit-learn · XGBoost · LightGBM · Optuna · Transformers (HuggingFace) · SHAP  
