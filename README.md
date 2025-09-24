@@ -7,7 +7,6 @@
 # 👋 Hola, soy Ricardo
 
 Graduado de abogado y actualmente en proceso de transición hacia el mundo de la **Analítica y Ciencia de Datos**.  
-Fascinado en aprovechar la información para descubrir patrones, generar valor y resolver problemas complejos.
 
 Este perfil refleja mi camino de aprendizaje y crecimiento en el área.
 
