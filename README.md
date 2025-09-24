@@ -17,7 +17,7 @@ Este perfil refleja mi camino de aprendizaje y crecimiento en el área.
 ## Trabajando en:
 - Construir proyectos de análisis de datos desde cero.
 - Mejorar mis habilidades en **Python, SQL, extracción de datos, visualización y Machine Learning**.
-- Desarrollar dashboards interactivos y pipelines de datos en la nube y de manera local.
+- Desarrollar dashboards interactivos y pipelines de datos en nube y local.
 
 ## Aprendiendo:
 - Técnicas avanzadas de **estadística y machine learning**.
