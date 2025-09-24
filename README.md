@@ -20,9 +20,8 @@ Este perfil refleja mi camino de aprendizaje y crecimiento en el área.
 - Desarrollar dashboards interactivos y pipelines de datos en nube y local.
 
 ## Aprendiendo:
-- Técnicas avanzadas de **estadística y machine learning**.
+- Técnicas avanzadas de **estadística, machine learning tradicional y deep learning**.
 - Arquitectura de datos y **plataformas en la nube** (AWS, GCP).
-- Buenas prácticas en **Data Engineering** y despliegue de aplicaciones interactivas.
 
 ---
 
@@ -41,7 +40,7 @@ MySQL · PostgreSQL
 AWS (EC2, Lambda, RDS, S3, EventBridge) · Google BigQuery 
 
 **Machine Learning & NLP:**  
-scikit-learn · XGBoost · LightGBM · Optuna · Transformers (HuggingFace) · SHAP  
+scikit-learn · XGBoost · LightGBM · Optuna · Transformers 
 
 ---
 
