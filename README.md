@@ -20,8 +20,8 @@ Este perfil refleja mi camino de aprendizaje y crecimiento en el área.
 - Desarrollar dashboards interactivos y pipelines de datos en nube y local.
 
 ## Aprendiendo:
-- Técnicas avanzadas de **estadística, machine learning tradicional y deep learning**.
-- Arquitectura de datos y **plataformas en la nube** (AWS, GCP).
+- Técnicas avanzadas de **estadística, deep learning y desarrollo de IA**.
+- Arquitectura de datos y **cloud platforms** (AWS, GCP).
 
 ---
 
