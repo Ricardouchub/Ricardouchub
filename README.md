@@ -40,7 +40,7 @@ MySQL · PostgreSQL · Microsoft SQL Server
 AWS (EC2, Lambda, RDS, S3, EventBridge) · GCP (Google BigQuery, GCS)
 
 **Machine Learning:**  
-scikit-learn · XGBoost
+Scikit-learn · XGBoost · Statsmodels
 
 **Deep Learning:**  
 PyTorch · Transformers
