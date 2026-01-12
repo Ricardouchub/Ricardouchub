@@ -36,7 +36,7 @@ Pandas · NumPy · Matplotlib · Seaborn · Plotly · Dash · Streamlit · Table
 **Bases de Datos:**  
 MySQL · PostgreSQL · Microsoft SQL Server
 
-**Cloud:**  
+**Servicios Cloud:**  
 AWS (EC2, Lambda, RDS, S3, EventBridge) · GCP (Google BigQuery, GCS)
 
 **Machine Learning:**  
