@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# 👋 Hola, soy Ricardo
+# Hola, soy Ricardo
 
 Graduado de abogado y actualmente en proceso de transición hacia el mundo de la **Analítica y Ciencia de Datos**.  
 
