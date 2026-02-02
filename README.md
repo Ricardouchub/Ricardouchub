@@ -31,22 +31,19 @@ Este perfil refleja mi camino de aprendizaje y crecimiento en el área.
 Python · SQL
 
 **Análisis y Visualización de Datos:**  
-Pandas · NumPy · Matplotlib · Seaborn · Plotly · Dash · Streamlit · Tableau · Power BI
+Pandas · NumPy · Matplotlib · Seaborn · Plotly · Dash · Streamlit · Tableau · Power BI · Excel
 
 **Bases de Datos:**  
 MySQL · PostgreSQL · Microsoft SQL Server
 
 **Servicios Cloud:**  
-AWS (EC2, Lambda, RDS, S3, EventBridge) · GCP (Google BigQuery, GCS)
+AWS (EC2, Lambda, RDS, S3, EventBridge) · GCP (Google BigQuery, GCS, Google Colab)
 
 **Machine Learning:**  
 Scikit-learn · XGBoost · Statsmodels
 
 **Deep Learning:**  
 PyTorch · Transformers
-
-**Interpretabilidad:**  
-SHAP
 
 **NLP:**  
 NLTK · VADER
