@@ -37,7 +37,7 @@ Pandas · NumPy · Matplotlib · Seaborn · Plotly · Dash · Streamlit · Table
 MySQL · PostgreSQL · Microsoft SQL Server
 
 **Servicios Cloud:**  
-AWS (EC2, Lambda, RDS, S3, EventBridge) · GCP (Google BigQuery, GCS, Google Colab)
+AWS (EC2, Lambda, RDS, S3, EventBridge) · GCP (Google BigQuery, GCS, Google Colab, Looker Studio)
 
 **Machine Learning:**  
 Scikit-learn · XGBoost · Statsmodels
